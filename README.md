@@ -1,16 +1,21 @@
-# split
+# Split
 
-A new Flutter project.
+The Bill Splitting App is a simple application for managing bills and users in a bill splitting scenario. It provides APIs to create, retrieve, update, and delete bills and users, allowing you to easily keep track of shared expenses.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create, retrieve, update, and delete bills
+- Create, retrieve, update, and delete users
+- Assign participants to bills
+- Track total amount, title, description, and participants for each bill
+- Store user details including name and email
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
+- Firebase (Firestore)
+- Shelf
+- Shelf Router
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
