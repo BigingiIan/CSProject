@@ -17,5 +17,9 @@ The Bill Splitting App is a simple application for managing bills and users in a
 - Shelf
 - Shelf Router
 
+## Installation
+
+1. Clone the repository:
+
 
 
