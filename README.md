@@ -21,5 +21,13 @@ The Bill Splitting App is a simple application for managing bills and users in a
 
 1. Clone the repository:
 
+https://github.com/Grilds/CSProject.git
 
+
+2. Navigate to the project directory:
+
+cd split
+
+
+3. Install the dependencies:
 
